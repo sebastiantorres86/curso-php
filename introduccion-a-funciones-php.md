@@ -414,4 +414,4 @@ second();
 ![](https://s3.amazonaws.com/codecademy-content/courses/php-functions/php_functions_syntax.png)
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/mad-libs-function/mad-libs-functions.md)
