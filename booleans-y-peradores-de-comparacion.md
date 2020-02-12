@@ -413,3 +413,4 @@ Woah! Cubrimos mucho en esta lección. Buen trabajo. Repasemos lo que aprendimos
 Eso es realmente mucho ... ¡Tómate un tiempo para practicar y revisar! Lo estás haciendo genial.
 
 ----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/bola-8-magica/bola-8-magica.md)
