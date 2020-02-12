@@ -157,4 +157,4 @@ Nosotros usamos:
     + Combina los dos formularios en uno solo. Para enviar los formularios al archivo correcto, use el [atributo `formaction`](https://www.w3schools.com/tags/att_button_formaction.asp).
 
 ----
-[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/adivinador-de-numeros-php/adivinador-de-numeros-php.md)
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/booleans-y-peradores-de-comparacion.md)
