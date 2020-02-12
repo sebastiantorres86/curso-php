@@ -189,3 +189,6 @@ switch ($opcion) {
 + Refactorice su código: intente que su código sea lo más conciso y fácil de leer posible.
 + Si usó sentencias `if` / `elseif`, intente reescribir el código utilizando una sentencia switch o viceversa.
 + Personaliza el programa a tu gusto: ¡sé creativo!
+
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/adivinador-de-numeros-php/adivinador-de-numeros-php.md)
