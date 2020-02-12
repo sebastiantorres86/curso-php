@@ -256,4 +256,4 @@ En el código anterior, utilizamos el operador posterior al incremento (`++`) pa
 |Módulo        |$x = $x % $y  | $x %= $y     |
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/introduccion-a-funciones-php.md)

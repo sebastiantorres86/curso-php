@@ -181,4 +181,4 @@ Solo hemos comenzado a arañar la superficie de todas las funciones integradas e
 Una nota final: a lo largo de esta lección, es posible que haya notado que las funciones integradas de PHP a menudo no siguen las convenciones de nomenclatura de funciones que describimos. Las funciones integradas de PHP no se nombran siguiendo una sola convención: algunas están en forma de serpiente, mientras que otras tienen palabras no separadas. Son peculiaridades como esta que pueden hacer que PHP sea un poco frustrante de aprender. Tenga paciencia consigo mismo mientras se sienta cómodo con las funciones integradas que le son más útiles, y no dude en buscar cosas.
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/guia-del-autoestopista/guia-del-autoestopista.md)

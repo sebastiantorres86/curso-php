@@ -103,3 +103,6 @@ Use la [función `floor()`](https://www.php.net/manual/en/function.floor.php).
 
 #### Pista 
 La solución debe ser 42.
+
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/matrices-ordenadas.md)

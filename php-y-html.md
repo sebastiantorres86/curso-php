@@ -123,4 +123,4 @@ Repasemos lo que hemos aprendido hasta ahora:
 + Incorporamos scripts PHP dentro de HTML insertando código PHP entre las etiquetas de apertura (`<?php`) y de cierre (`?>`).
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/manejo-de-formularios-php-en-html.md)

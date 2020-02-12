@@ -155,3 +155,6 @@ Nosotros usamos:
     + Implemente operaciones matemáticas más complicadas, como el [teorema de Pitágoras](https://es.wikipedia.org/wiki/Teorema_de_Pit%C3%A1goras). La calculadora podría devolver la longitud de una hipotenusa dados los otros dos lados.
     + Agregue más estilo CSS a la aplicación.
     + Combina los dos formularios en uno solo. Para enviar los formularios al archivo correcto, use el [atributo `formaction`](https://www.w3schools.com/tags/att_button_formaction.asp).
+
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/adivinador-de-numeros-php/adivinador-de-numeros-php.md)

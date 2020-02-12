@@ -333,4 +333,4 @@ echo $second_player_rank; // Imprime: Intermedio
 Si eso fue mucho para asimilar, no se preocupe por memorizar todo de inmediato. Recuerde que cuando desee explorar más sobre el lenguaje, [la documentación](http://php.net/manual/en/langref.php) es un gran lugar para sentirse cómodo explorando.
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/numeros-php.md)

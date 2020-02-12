@@ -231,4 +231,4 @@ En la próxima lección, comenzará a crear su propio código PHP. Tómese un se
 + Los comentarios de una sola línea se hacen en PHP usando `#` o `//`. Los comentarios de varias líneas se colocan entre `/*` y `*/`.
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/cadenas-y-variables-php.md)

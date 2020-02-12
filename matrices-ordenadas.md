@@ -276,4 +276,4 @@ $ very_nested [3] [2] [1] = "¡Encontrado!";
 Podemos usar corchetes encadenados (`[]`) para acceder y cambiar elementos dentro de una matriz anidada.
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/matrices-asociativas.md)

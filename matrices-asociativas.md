@@ -284,4 +284,4 @@ echo $objeto ["color"]; // Imprime: rojo
 ¡Impresionante trabajo!
 
 ----
-[Próxima Lección](#)
+[Próxima Lección](https://github.com/sebastiantorres86/curso-php/blob/master/presupuesto-de-bob/presupuesto-de-bob.md)

@@ -265,3 +265,5 @@ Buscando ideas? Aquí hay algunas tareas de desafío:
 + Haga una versión diferente del juego de adivinanzas: tal vez lanzar una moneda.
 Si creas algo que te entusiasme, ¡a nosotros también nos entusiasma! ¡Por favor compártelo con nosotros!
 
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/operadores-logicos-y-condiciones-compuestas.md)

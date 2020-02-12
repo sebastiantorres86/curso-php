@@ -97,3 +97,6 @@ función generarHistoria($sustantivoSingular, $verbo, $color, $unidadDeDistancia
 7. ¡Ahora nuestra historia es un poco más divertida! Si lo desea, reemplace la historia con la suya.
 
 También puede intentar usar la función de reemplazo de cadena integrada de PHP [str_replace](https://www.php.net/manual/en/function.str-replace.php) para simplificar su código.
+
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/intro-to-built-in-php-function.md)

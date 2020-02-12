@@ -14,4 +14,4 @@ Estamos creando contenido nuevo y emocionante para este curso. ¡Esté atento a 
 
 Algo de HTML básico es útil antes de tomar este curso.
 
-[Primera Lección](#)
+[Primera Lección](https://github.com/sebastiantorres86/curso-php/blob/master/introduction-to-php.md)
