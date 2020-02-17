@@ -357,4 +357,4 @@ echo StringUtils::uclast("hola mundo"); # Imprime "hola mundo"
     + Se accede a los miembros de un objeto utilizando el Operador de objetos (`->`).
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/yendo-a-dormir/yendo-a-dormir.md)

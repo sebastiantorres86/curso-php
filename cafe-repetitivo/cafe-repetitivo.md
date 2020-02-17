@@ -152,4 +152,4 @@ Nuestra variable de bucle es `$i`, por lo que estamos indexando así:
     ¿Cuál fue el más fácil de crear para este tipo de aplicación?
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/introduccion-a-validacion-de-formularios.md)

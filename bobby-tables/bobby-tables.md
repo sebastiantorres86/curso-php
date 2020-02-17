@@ -182,4 +182,4 @@ if (filter_var($raw_birth_year, FILTER_VALIDATE_INT, $options)) {
     + Los correos electrónicos deben terminar en .com
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/clases-y-objetos.md)

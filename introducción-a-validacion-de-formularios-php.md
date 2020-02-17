@@ -303,4 +303,4 @@ La validación y desinfección de datos es una parte extremadamente importante d
 A medida que sus validaciones se vuelven cada vez más complejas, también debe practicar la modularidad y separar su lógica de validación de su lógica de visualización.
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/bobby-tables/bobby-tables.md)

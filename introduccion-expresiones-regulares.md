@@ -186,4 +186,4 @@ Una vez más, como con todos los demás metacaracteres, para que coincidan los s
 + Los símbolos de _anclaje_ sombrero `^` y el signo de dólar `$` se usan para hacer coincidir el texto al principio y al final de una cadena, respectivamente
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/introducci%C3%B3n-a-validacion-de-formularios-php.md)

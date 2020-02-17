@@ -86,4 +86,4 @@ En esta lección, hemos explorado la validación de formularios desde muchos án
 + Se requiere una validación final de todos los datos para garantizar la seguridad de una aplicación y desinfectar todos los datos.
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/introduccion-expresiones-regulares.md)

@@ -118,4 +118,4 @@ Estas son las ideas clave de esta lección:
 + Asegúrese de volver a ingresar al modo PHP usando `<?php` o la abreviatura de `echo` `<?=` antes de usar variables PHP en el bucle
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/cafe-repetitivo/cafe-repetitivo.md)
