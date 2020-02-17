@@ -253,4 +253,4 @@ Cuando ejecutamos __index.php__ `¡Hola! ¿Cómo está usted?` es impreso en el 
 ¡Impresionante trabajo!
 
 ----
-[Próxima Clase]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/errores-comunes-con-condicionales.md)

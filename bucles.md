@@ -237,4 +237,4 @@ Aquí hay un resumen de los temas tratados en esta lección:
 + `continue` se usa para finalizar la ejecución de una iteración de bucle temprano y continúa a la siguiente iteración.
 
 ----
-[Próxima lección]()
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/fizzbuzz/fizzbuzz.md)

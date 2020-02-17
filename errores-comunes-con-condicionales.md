@@ -118,3 +118,6 @@ if ($respuesta !== "si" && $respuesta !== "no") {
 ````
 
 Cuando nuestro código no funciona de la manera que esperamos, deberíamos recorrerlo como una computadora, deberíamos "ser" la computadora y tratar de leer cada línea sin nuestro sesgo humano natural.
+
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/salva-la-granja/salva-la-granja.md)

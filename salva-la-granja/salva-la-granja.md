@@ -553,3 +553,6 @@ function searchSafe() {
 28. ¡Lo hiciste increíble! Date una palmadita en la espalda. Si te sientes inspirado, deberías ver el juego tan lejos como un punto de partida. Puedes personalizar el juego a tu gusto. Puedes agregar aún más acciones para que el jugador realice.
 
     Y una vez que hayas agotado este juego, intenta crear un nuevo juego de ficción interactivo desde cero. ¡Tu imaginación es el limite! Nos encantaría ver lo que construyes, ¡así que definitivamente comparte cualquier juego que hagas con nosotros!
+
+----
+[Próxima lección](https://github.com/sebastiantorres86/curso-php/blob/master/bucles.md)
